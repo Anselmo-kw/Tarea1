@@ -26,9 +26,9 @@ Los tickets se almacenan en una única lista enlazada ordenada primero por **pri
 
 ### Pasos para compilar y ejecutar
 
-1. Descargar el archivo `.zip` del proyecto (por ejemplo, `TAREA1.zip`).
-2. Descomprimir el contenido en una carpeta local (se creará una carpeta llamada `TAREA1` con todos los archivos).
-3. Abrir la carpeta `TAREA1` en **Visual Studio Code**.
+1. Descargar el archivo `.zip` del proyecto (por ejemplo, `Tarea1.zip`).
+2. Descomprimir el contenido en una carpeta local (se creará una carpeta llamada `Tarea1` con todos los archivos).
+3. Abrir la carpeta `Tarea1` en **Visual Studio Code**.
 4. Abrir un terminal dentro del editor (recomendado: **Git Bash** si estás en Windows).
 5. Compilar el proyecto ejecutando el siguiente comando dentro del terminal:
 ```gcc main.c Tdas/ticket.c Tdas/list.c Tdas/extra.c -o programa.exe```
